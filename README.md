@@ -15,7 +15,7 @@ I'm a High School Student 🧑‍🎓 and I'm currently working as an Intern at 
 ## ⚡️ A Few Quick Facts
 
 - 🔭  I’m currently working as an Intern at the City Council of Blumenau (Câmara Municipal de Blumenau) and I'm a High School student at Escola SESI - Blumenau**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.tenor.com/kbc4EbP_kywAAAAi/moo-deng-hippo.gif">  I enjoy working on
   - 📚 School Projects
   - 🧪 Personal Test Projects
 - 🎉 Fun-Fact: I like watching movies, going to the cinema, hanging out with friends, and playing video games.
