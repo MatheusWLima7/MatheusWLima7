@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media1.tenor.com/m/03EEzCyohvwAAAAC/ultimate-chicken-horse-uch.gif" width="50"> 
-I'm a High School Student 🧑‍🎓 and I'm currently working as an Intern at the City Council of Blumenau (Câmara Municipal de Blumenau). I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+  I'm a High School Student 🧑‍🎓 and I'm currently working as an Intern at the City Council of Blumenau (Câmara Municipal de Blumenau). I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I enjoy building and exploring new projects as a hobby, just for the challenge and entertainment. <br/><br/>
 
 
 
