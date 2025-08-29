@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/matheus-westphal-lima-284871266)](https://br.linkedin.com/in/matheus-westphal-lima-284871266) 
 
 
-### A little about me...  <img src="https://tenor.com/pt-BR/view/moo-deng-hippo-kawaii-cartoon-moo-gif-10499922704923071276" width="50"> 
+### A little about me...  <img src="https://media1.tenor.com/m/03EEzCyohvwAAAAC/ultimate-chicken-horse-uch.gif" width="50"> 
 I'm a High School Student 🧑‍🎓 and I'm currently working as an Intern at the City Council of Blumenau (Câmara Municipal de Blumenau). I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
@@ -15,7 +15,7 @@ I'm a High School Student 🧑‍🎓 and I'm currently working as an Intern at 
 ## ⚡️ A Few Quick Facts
 
 - 🔭  I’m currently working as an Intern at the City Council of Blumenau (Câmara Municipal de Blumenau) and I'm a High School student at Escola SESI - Blumenau**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📚 School Projects
   - 🧪 Personal Test Projects
 - 🎉 Fun-Fact: I like watching movies, going to the cinema, hanging out with friends, and playing video games.
